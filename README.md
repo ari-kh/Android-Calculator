@@ -11,4 +11,4 @@ The manditory functions are the +,-,x and / while the other ones are optional an
 show off your mad skills (e.g. trig functions, hex calculator, exp functions, etc.).
 
 # Your comments or assumptions
-- <add them here>
+I assumed only numbers can be inputed and I implemented the power operation as my optional one. 
